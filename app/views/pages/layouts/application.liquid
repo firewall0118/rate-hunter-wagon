@@ -1,0 +1,105 @@
+---
+title: Application
+
+# true if the page is included in the menu
+# listed: true
+
+# true if the page is published
+# published: true
+
+# true if the page can be used as a layout for new pages created by the editors
+# is_layout: false
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# other unique identifier of this page. To be used with the path_to liquid tag.
+# handle: my-page-handle
+
+# content type that this page is templatizing
+# content_type: "<slug of one of the content types>"
+
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+---
+
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
+    <meta charset="utf-8">
+    <title>Rate Hunter</title>
+    <meta name="generator" content="Bootply" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    {{ 'application.css' | stylesheet_tag }}
+    
+    <!-- CSS code from Bootply.com editor -->
+  </head>
+
+  <body>
+    {% if page.slug == "index" %}
+      {% block content %}
+      {% endblock %}
+      {% include footer %}
+    {% endif %}
+
+    {% if page.slug == "about" %}
+      {% block about %}
+      {% endblock %}
+    {% endif %}
+
+    {% if page.slug == "contact" %}
+      {% block contact %}
+      {% endblock %}
+    {% endif %}
+    
+  </body>
+
+  <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  {{ 'bootstrap.min.js' | javascript_tag }}
+
+  <script>
+    (function(i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function() {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-73673461-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+
+  <!-- Google Tag Manager -->
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-5HBCWP" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+  <script>
+    (function(w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true;
+      j.src =
+        '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-5HBCWP');
+  </script>
+</html>

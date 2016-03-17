@@ -1,0 +1,49 @@
+---
+title: About
+
+# true if the page is included in the menu
+listed: true
+
+# true if the page is published
+published: true
+
+# true if the page can be used as a layout for new pages created by the editors
+# is_layout: true
+
+# position among sibling pages
+# position: 1
+
+# sets a redirection to the given url (301)
+# redirect_url: "<url to a page or to a remote url>"
+
+# other unique identifier of this page. To be used with the path_to liquid tag.
+# handle: my-page-handle
+
+# content type that this page is templatizing
+# content_type: "<slug of one of the content types>"
+
+
+# editable_elements:
+#   'some_block/some_slug': "<text>"
+#   'some_block/some_slug': "<relative path to the file under the public/samples folder>"
+---
+{% extends layouts/application %}
+{% block about %}
+  <div class="container">
+    <div class="row block-gap who-we">
+      {% editable_text 'about' %}
+        <h1> About </h1>
+        <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut pretium pretium tempor. Ut egget imperdiet neque.
+            In volutpat ante semper diam molestie, et aliquam erat laoreet.
+            Sed sit amet arcu aliquet, molestie justo at, auctor nunc. Phasellus ligula ipsum, volutpat eget semper id, viverra egget nibh. Suspendisse luctus mattis cursus. Nam consectetur ante at nisl hendrerit gravida.
+         </p>
+      {% endeditable_text %}
+    </div>
+  </div>
+{% endblock %}
+
+
+
+
+
+

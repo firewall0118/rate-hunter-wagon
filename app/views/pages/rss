@@ -1,0 +1,11 @@
+results = RSS::Parser.parse(open(url).read, false).items
+last_job = Job.order(job_id: :desc).first
+latest_jobs = results.select { |job| job[:id] > last_job.id }
+
+latest_jobs.each do |job|
+  Job.create({
+    title: job[:title],
+    description: job[:description],
+
+  )
+end

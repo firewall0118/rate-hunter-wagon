@@ -1,0 +1,21 @@
+development:
+  host: dev.example.com
+  email: klein0118@gmail.com
+  password: apassword
+  # api_key: <your api key here>
+staging:
+  host: staging.example.com
+  email: klein0118@gmail.com
+  password: apassword
+  # api_key: <your api key here>
+production:
+  host: www.example.com
+  email: klein0118@gmail.com
+  password: apassword
+  # api_key: <your api key here>
+
+local:
+  host: localhost:3000
+  handle: solitary-swamp-1234
+  email: danielklein0118@gmail.com
+  api_key: eda4c46d73b518dea8e38e1b398c2e2aa4c0572e

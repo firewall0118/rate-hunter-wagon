@@ -1,0 +1,399 @@
+# Logfile created on 2016-03-07 15:12:26 +0100 by logger.rb/1.2.8
+[0;97;49mStarted GET "/" at 2016-03-07 15:18:49 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:19:16 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:21:16 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:21:22 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:21:22 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.0ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:22:55 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:22:55 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:22:55 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:23:33 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:23:34 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:23:34 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 2.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:23:56 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:23:57 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:23:58 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:23:59 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:23:59 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:32:53 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:32:53 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:32:53 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:33:02 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:33:02 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:35:38 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:35:38 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:35:47 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:35:47 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.7ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:39:25 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:40:01 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:40:26 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:41:28 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:41:29 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:41:29 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:41:48 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:41:49 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:14 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:14 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:14 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:18 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:19 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:42:19 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:30 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:30 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:31 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:31 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:34 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:43:42 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:43:45 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.9ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:43:45 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:43:48 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:43:48 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.0ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:43:48 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 4.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:43:48 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:43:49 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.4ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:43:49 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:44:36 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:44:36 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:44:36 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:44:47 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:49 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:49 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:49 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 3.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:49 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.5ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:50 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.1ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 15:44:51 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:44:51 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.4ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:45:12 +0100
+* Reloaded "pages", "snippets" at 2016-03-07 15:45:13 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:45:14 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:45:14 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.2ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:45:41 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:45:42 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:45:42 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 15:46:12 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 15:58:09 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.2ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 15:58:09 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 20.5ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 16:05:06 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 7.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 16:05:06 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 16:43:01 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 16:43:01 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 16:43:08 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.6ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 16:43:08 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.8ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 16:43:09 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 16:43:09 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 16:43:20 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 16:43:20 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.7ms
+
+[0m
+[0;97;49mStarted GET "/" at 2016-03-07 17:01:37 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 2.1ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 17:01:37 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 3.1ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-07 17:19:32 +0100
+[0;97;49mStarted GET "/" at 2016-03-07 17:19:35 +0100[0m
+Detecting locale EN
+Found page "Home page" [index]
+  Rendered liquid page template
+[0;32;49mCompleted 200 OK in 1.3ms
+
+[0m
+[0;97;49mStarted GET "/assets/images/rate-hunter-logo.png" at 2016-03-07 17:19:35 +0100[0m
+Detecting locale EN
+[0;32;49mCompleted 404 Not Found in 0.9ms
+
+[0m
+* Reloaded "pages", "snippets" at 2016-03-08 10:41:12 +0100
+undefined method `localize_fullpath' for nil:NilClass
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/pages_reader.rb:25:in `block in read'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/pages_reader.rb:25:in `each'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/file_system/pages_reader.rb:25:in `read'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:48:in `block (2 levels) in reload'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `each'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:40:in `block in reload'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter.rb:99:in `with_locale'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_mounter-1.4.1/lib/locomotive/mounter/reader/runner.rb:39:in `reload'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/locomotivecms_wagon-1.4.0/lib/locomotive/wagon/listen.rb:39:in `block in apply'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/listener.rb:212:in `call'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/listener.rb:212:in `on_change'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/listener.rb:221:in `block in initialize_adapter'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `call'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/adapter.rb:198:in `report_changes'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/adapter.rb:210:in `poll_changed_dirs'
+	/home/dev/.rvm/gems/ruby-2.2.0@acme/gems/listen-0.7.3/lib/listen/adapters/linux.rb:48:in `block in start'
+
+
+* Reloaded "pages", "snippets" at 2016-03-08 10:41:20 +0100
+* Reloaded "pages", "snippets" at 2016-03-08 10:41:22 +0100
